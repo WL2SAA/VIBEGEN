@@ -1,0 +1,6 @@
+{
+  "name": "VibeWall",
+  "description": "AI-powered phone wallpaper generator. Describe your vibe and get 4 unique variations in 9:16 aspect ratio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
