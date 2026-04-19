@@ -2,6 +2,7 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
+## Made With Google AI Studio
 
 View this app in AI Studio: https://ai.studio/apps/96103982-09c1-4793-9367-c5da20d7c9e8
 
